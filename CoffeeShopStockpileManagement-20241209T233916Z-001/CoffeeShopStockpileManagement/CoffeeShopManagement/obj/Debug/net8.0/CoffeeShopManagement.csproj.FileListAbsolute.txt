@@ -1,0 +1,68 @@
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.exe
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.deps.json
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.runtimeconfig.json
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.dll
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.pdb
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.AssemblyInfo.cs
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net8.0\CoffeeSh.AD010B53.Up2Date
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.dll
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net8.0\refint\CoffeeShopManagement.dll
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.pdb
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.genruntimeconfig.cache
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\net8.0\ref\CoffeeShopManagement.dll
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement - Copy\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.exe
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement - Copy\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.deps.json
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement - Copy\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.runtimeconfig.json
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement - Copy\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.dll
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement - Copy\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.pdb
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement - Copy\CoffeeShopManagement\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement - Copy\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement - Copy\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement - Copy\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement - Copy\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.AssemblyInfo.cs
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement - Copy\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement - Copy\CoffeeShopManagement\obj\Debug\net8.0\CoffeeSh.AD010B53.Up2Date
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement - Copy\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.dll
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement - Copy\CoffeeShopManagement\obj\Debug\net8.0\refint\CoffeeShopManagement.dll
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement - Copy\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.pdb
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement - Copy\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.genruntimeconfig.cache
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement - Copy\CoffeeShopManagement\obj\Debug\net8.0\ref\CoffeeShopManagement.dll
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement (1)\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.exe
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement (1)\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.deps.json
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement (1)\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.runtimeconfig.json
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement (1)\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.dll
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement (1)\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.pdb
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement (1)\CoffeeShopManagement\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement (1)\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement (1)\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement (1)\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement (1)\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.AssemblyInfo.cs
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement (1)\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement (1)\CoffeeShopManagement\obj\Debug\net8.0\CoffeeSh.AD010B53.Up2Date
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement (1)\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.dll
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement (1)\CoffeeShopManagement\obj\Debug\net8.0\refint\CoffeeShopManagement.dll
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement (1)\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.pdb
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement (1)\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.genruntimeconfig.cache
+C:\Users\pc\Documents\VS-CPE261\CoffeeShopManagement (1)\CoffeeShopManagement\obj\Debug\net8.0\ref\CoffeeShopManagement.dll
+C:\Users\acer\Downloads\CoffeeShopStockpileManagement-20241209T233916Z-001\CoffeeShopStockpileManagement\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.exe
+C:\Users\acer\Downloads\CoffeeShopStockpileManagement-20241209T233916Z-001\CoffeeShopStockpileManagement\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.deps.json
+C:\Users\acer\Downloads\CoffeeShopStockpileManagement-20241209T233916Z-001\CoffeeShopStockpileManagement\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.runtimeconfig.json
+C:\Users\acer\Downloads\CoffeeShopStockpileManagement-20241209T233916Z-001\CoffeeShopStockpileManagement\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.dll
+C:\Users\acer\Downloads\CoffeeShopStockpileManagement-20241209T233916Z-001\CoffeeShopStockpileManagement\CoffeeShopManagement\bin\Debug\net8.0\CoffeeShopManagement.pdb
+C:\Users\acer\Downloads\CoffeeShopStockpileManagement-20241209T233916Z-001\CoffeeShopStockpileManagement\CoffeeShopManagement\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\acer\Downloads\CoffeeShopStockpileManagement-20241209T233916Z-001\CoffeeShopStockpileManagement\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\CoffeeShopStockpileManagement-20241209T233916Z-001\CoffeeShopStockpileManagement\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Downloads\CoffeeShopStockpileManagement-20241209T233916Z-001\CoffeeShopStockpileManagement\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\CoffeeShopStockpileManagement-20241209T233916Z-001\CoffeeShopStockpileManagement\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.AssemblyInfo.cs
+C:\Users\acer\Downloads\CoffeeShopStockpileManagement-20241209T233916Z-001\CoffeeShopStockpileManagement\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\CoffeeShopStockpileManagement-20241209T233916Z-001\CoffeeShopStockpileManagement\CoffeeShopManagement\obj\Debug\net8.0\CoffeeSh.AD010B53.Up2Date
+C:\Users\acer\Downloads\CoffeeShopStockpileManagement-20241209T233916Z-001\CoffeeShopStockpileManagement\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.dll
+C:\Users\acer\Downloads\CoffeeShopStockpileManagement-20241209T233916Z-001\CoffeeShopStockpileManagement\CoffeeShopManagement\obj\Debug\net8.0\refint\CoffeeShopManagement.dll
+C:\Users\acer\Downloads\CoffeeShopStockpileManagement-20241209T233916Z-001\CoffeeShopStockpileManagement\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.pdb
+C:\Users\acer\Downloads\CoffeeShopStockpileManagement-20241209T233916Z-001\CoffeeShopStockpileManagement\CoffeeShopManagement\obj\Debug\net8.0\CoffeeShopManagement.genruntimeconfig.cache
+C:\Users\acer\Downloads\CoffeeShopStockpileManagement-20241209T233916Z-001\CoffeeShopStockpileManagement\CoffeeShopManagement\obj\Debug\net8.0\ref\CoffeeShopManagement.dll

@@ -1,0 +1,12 @@
+Coffee Shop Receipt
+===================
+Date: 2024-12-09 17:31:21
+
+coffee                                  5x
+123                                     615.00
+
+-----------------------
+Total: PHP 615.00
+-----------------------
+Received Cash            PHP       0.00
+Change Due              PHP       0.00

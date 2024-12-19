@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="CoffeeShopStockpileManagement.InventoryManager">
+    <Position X="7" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAQAAoAABAASQAAAAAACQAACAAAAAAA=</HashCode>
+      <FileName>InventoryManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShopStockpileManagement.CoffeeShopManagementSystem">
+    <Position X="4" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAQAAAIAAAAAAARAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShopStockpileManagement.SalesReport">
+    <Position X="9.5" Y="4.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="CoffeeShopStockpileManagement.SalesReport.SaleRecord">
+        <TypeIdentifier>
+          <NewMemberFileName>SalesReport.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAIAAAAAAAiAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SalesReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShopStockpileManagement.SellProduct">
+    <Position X="9.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAACAAAAAAAAAAAAAAAAAAAIAACAAAAAAAACAA=</HashCode>
+      <FileName>SellProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShopStockpileManagement.SupplierManager">
+    <Position X="12" Y="1.75" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="CoffeeShopStockpileManagement.SupplierManager.SupplierDetails">
+        <TypeIdentifier>
+          <NewMemberFileName>SupplierManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAICAAAAAEAAAAAAAQCAAAAAACAAAAAAAAAAAABQAAA=</HashCode>
+      <FileName>SupplierManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

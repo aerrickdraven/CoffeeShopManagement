@@ -1,0 +1,18 @@
+Sale Date: 2024-12-08 22:08:32
+Item: coffee 1, Quantity Sold: 1, Total Price: PHP 5.00, Batch Number: 3231
+----------------------------
+Sale Date: 2024-12-09 00:02:21
+Item: coffee 2, Quantity Sold: 3, Total Price: PHP 300.00, Batch Number: v123
+----------------------------
+Sale Date: 2024-12-09 17:26:25
+Item: coffee, Quantity Sold: 5, Total Price: PHP 615.00, Batch Number: 123
+----------------------------
+Sale Date: 2024-12-09 17:26:47
+Item: coffee, Quantity Sold: 1, Total Price: PHP 123.00, Batch Number: 123
+----------------------------
+Sale Date: 2024-12-10 08:37:20
+Item: hazelnut, Quantity Sold: 5, Total Price: PHP 750.00, Batch Number: b3244
+----------------------------
+Sale Date: 2024-12-10 08:37:20
+Item: coffee, Quantity Sold: 9, Total Price: PHP 1107.00, Batch Number: 123
+----------------------------

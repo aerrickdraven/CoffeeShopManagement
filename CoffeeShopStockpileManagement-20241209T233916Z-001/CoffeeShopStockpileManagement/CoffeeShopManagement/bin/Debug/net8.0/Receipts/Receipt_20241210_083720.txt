@@ -1,0 +1,15 @@
+Coffee Shop Receipt
+===================
+Date: 2024-12-10 08:37:20
+
+hazelnut                                5x
+b3244                                   750.00
+
+coffee                                  9x
+123                                     1107.00
+
+-----------------------
+Total: PHP 1857.00
+-----------------------
+Received Cash            PHP       2000.00
+Change Due              PHP       143.00
